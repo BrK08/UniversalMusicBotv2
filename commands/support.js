@@ -37,7 +37,7 @@ module.exports = {
             .setColor('#b300ff')
             .setAuthor({
               name: 'Support Server',
-              iconURL: 'https://cdn.discordapp.com/attachments/1187105491835429035/1263150418775507064/static.png?ex=66993000&is=6697de80&hm=c3f546e0efa85154316e3b9d8a1b8ba20586823c784e61f172aef67b2b7ae213&', 
+              iconURL: 'https://cdn.discordapp.com/attachments/1187105491835429035/1263154463368155256/Fotoram.io.png?ex=669933c4&is=6697e244&hm=15369b49025bcd32f78404c96e535a00cecde794ead3140f946184dbecf2712c&', 
               url: 'discord server şuanda bakımda'
           })
             .setDescription(`➡️ **Join our Discord server for support and updates:**\n- Discord - ${supportServerLink}\n\n➡️ **Follow us on:**\n- GitHub - ${githubLink}\n- Replit - ${replitLink}\n- YouTube - ${youtubeLink}`)

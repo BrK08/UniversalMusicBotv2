@@ -29,16 +29,16 @@ module.exports = {
   run: async (client, interaction) => {
     try {
 
-      const supportServerLink = "https://discord.gg/xQF9f9yUEM";
-      const githubLink = "https://github.com/GlaceYT";
-      const replitLink = "https://replit.com/@GlaceYT";
-      const youtubeLink = "https://www.youtube.com/@GlaceYT";
+      const supportServerLink = "Şuanda Discord Serveri bakımda";
+      const githubLink = "geçersiz";
+      const replitLink = "Geçersiz";
+      const youtubeLink = "Reklam İçin mr_berk.";
         const embed = new EmbedBuilder()
             .setColor('#b300ff')
             .setAuthor({
               name: 'Support Server',
-              iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1230824519220985896/6280-2.gif?ex=6638ae28&is=66375ca8&hm=13e4a1b91a95b2934a39de1876e66c11711c7b30ac1a91c2a158f2f2ed1c2fc6&', 
-              url: 'https://discord.gg/xQF9f9yUEM'
+              iconURL: 'https://cdn.discordapp.com/attachments/1187105491835429035/1263147585644925090/standard_9.gif?ex=66992d5c&is=6697dbdc&hm=dd1c144b0a35f82d4dc84cb45c212c3a3e4d5f7d05bff80c9882c0f01c3248f2&', 
+              url: 'discord server şuanda bakımda'
           })
             .setDescription(`➡️ **Join our Discord server for support and updates:**\n- Discord - ${supportServerLink}\n\n➡️ **Follow us on:**\n- GitHub - ${githubLink}\n- Replit - ${replitLink}\n- YouTube - ${youtubeLink}`)
             .setImage('https://cdn.discordapp.com/attachments/1113800537402527903/1236803979996958740/11.png?ex=663956f7&is=66380577&hm=3b3c19a11adcb979517a133f2907f671305d23f1f5092cf7df043e6d5cab07bc&')
